@@ -17,10 +17,9 @@ require (
 	github.com/eapache/go-resiliency v1.2.0 // indirect
 	github.com/eapache/go-xerial-snappy v0.0.0-20180814174437-776d5712da21 // indirect
 	github.com/eapache/queue v1.1.0 // indirect
-	github.com/frankban/quicktest v1.11.3 // indirect
 	github.com/fsouza/go-dockerclient v1.7.0
 	github.com/go-kit/kit v0.9.0
-	github.com/golang/protobuf v1.3.3
+	github.com/golang/protobuf v1.5.0
 	github.com/golang/snappy v0.0.3-0.20201103224600-674baa8c7fc3 // indirect
 	github.com/gorilla/handlers v1.4.0
 	github.com/gorilla/mux v1.8.0
@@ -38,7 +37,7 @@ require (
 	github.com/mitchellh/mapstructure v1.3.2
 	github.com/onsi/ginkgo v1.14.0
 	github.com/onsi/gomega v1.10.1
-	github.com/opencontainers/runc v1.0.0-rc8 // indirect
+	github.com/opencontainers/runc v1.1.12 // indirect
 	github.com/pelletier/go-toml v1.8.0 // indirect
 	github.com/pierrec/lz4 v2.6.0+incompatible // indirect
 	github.com/pkg/errors v0.9.1
@@ -59,8 +58,8 @@ require (
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20181228115726-23731bf9ba55
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/tools v0.0.0-20200131233409-575de47986ce
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/tools v0.6.0
 	google.golang.org/grpc v1.31.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/cheggaaa/pb.v1 v1.0.28
